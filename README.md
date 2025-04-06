@@ -37,6 +37,6 @@ Whether you're new to deep learning or brushing up on fundamentals, this is a gr
 
 | Input Image | Predicted Label |
 |-------------|-----------------|
-| ![5](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png) | `5` |
+| ![5]([https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png](https://deeplearning.cms.waikato.ac.nz/img/mnist/img_10596_5.jpg) | `5` |
 | ![3](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png) | `3` |
 *Note: Replace with actual output screenshots from your model!*
